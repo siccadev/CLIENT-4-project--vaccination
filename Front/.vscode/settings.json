@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "": true
+    },
+    "search.exclude": {
+        "node-modules": true
+    },
+    "search.useGlobalIgnoreFiles": true,
+    "search.useParentIgnoreFiles": true
+}
